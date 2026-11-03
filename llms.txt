@@ -1,0 +1,16 @@
+# Inchwright
+
+> Inchwright is a physics puzzle game for iPhone, coming soon to the App Store. Inch the inchworm has to reach the Old Oak before summer ends. The player builds him a tiny cart from meadow things and rebuilds it at every stopover along the trail.
+
+- Each level is a trail of one to three legs (grassy slopes, puddles, wind, gaps, tall steps). At the end of each leg is a Stopover, where the run halts and the player takes the cart apart and rebuilds it. Only parts fixed on the cart come along to the next stopover.
+- Parts: Twig, Reed, Acorn Wheel, Tendril (a coiled spring that drives the wheels), Seed Pod (floats), Leaf Sail, Silk Spinner (a silk line that reels the cart across gaps), Hopper Leg (jumps).
+- 48 levels on four trails: Clover Bank (free), Brookside, Bramble Gap, Windmill Rise. Each level has three stars: reach the Oak, pick up every dewdrop, and Light load (few parts used).
+- One help, Sketch, draws a working cart for the current stopover.
+- Two one-time in-app purchases: Every Trail (opens the last three trails) and Field Notebook (unlimited Sketches). No ads, no analytics, no tracking, no account, no timers, no energy.
+- Portrait, played with one hand. English.
+
+## Pages
+
+- [Home](https://nguyenvanlamm.github.io/inchwright-site/): what the game is, screenshots, the trails
+- [Privacy Policy](https://nguyenvanlamm.github.io/inchwright-site/privacy.html): the game collects no data; progress and purchases stay on the device
+- [Support](https://nguyenvanlamm.github.io/inchwright-site/support.html): contact, how to play, purchases and Restore purchases
